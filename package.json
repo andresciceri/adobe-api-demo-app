@@ -1,0 +1,14 @@
+{
+  "name": "adobe-api-demo-app",
+  "version": "1.0.0",
+  "description": "Demo Adobe API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hugo Andres Escobar",
+  "license": "ISC",
+  "dependencies": {
+    "@adobe/pdfservices-node-sdk": "^2.2.2"
+  }
+}
